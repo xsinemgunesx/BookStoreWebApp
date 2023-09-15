@@ -10,12 +10,12 @@ public class Book
 	
     public int Id { get; set; }
    
-    public required string Title { get; set; }
-    public required string Isbn { get; set; }
-    public required int TotalPages { get; set; }
-    public required int AuthorId { get; set; }
-    public required int PublisherId { get; set; }
-    public required int GenreId { get; set; }
+    public  string Title { get; set; }
+    public  string Isbn { get; set; }
+    public  int TotalPages { get; set; }
+    public  int AuthorId { get; set; }
+    public  int PublisherId { get; set; }
+    public  int GenreId { get; set; }
 
 	[NotMapped]
 	public string? AuthorName { get; set; }
@@ -30,5 +30,5 @@ public class Book
 	public List<SelectListItem>? PublisherList { get; set; }
 	[NotMapped]
 	public List<SelectListItem>? GenreList { get; set; }
-
+   
 }

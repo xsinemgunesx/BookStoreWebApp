@@ -15,6 +15,7 @@ public class BookController : Controller
 	private readonly IPublisherService _publisherService;
 	public BookController(IBookService bookService, IGenreService genreService, IPublisherService publisherService, IAuthorService authorService)
 	{
+		model = new Book();
 		_bookService = bookService;
 		_genreService = genreService;
 		_publisherService = publisherService;
@@ -22,7 +23,7 @@ public class BookController : Controller
 	}
 	public IActionResult Add()
 	{
-		model = new Book();
+		
 		model.AuthorList = _authorService.GetAll().Select(a => new SelectListItem { Text = a.Name, Value = a.Id.ToString()}).ToList();
 		model.PublisherList = _publisherService.GetAll().Select(a => new SelectListItem { Text = a.Name, Value = a.Id.ToString()}).ToList();
 		model.GenreList = _genreService.GetAll().Select(a => new SelectListItem { Text = a.Name, Value = a.Id.ToString()}).ToList();
