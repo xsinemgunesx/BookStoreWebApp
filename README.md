@@ -18,15 +18,29 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
 1. Repo'yu klonlayın:
 
    ```shell
-   git clone https://github.com/sizin-kullanici-adi/bookstore-projesi.git
+   git clone https://github.com/sizin-kullanici-adi/bookstore-projesi.git  
 2.Proje dizinine gidin
-
+  ```
+    cd bookstore-projesi 
    ```
-    cd bookstore-projesi
+2.Proje dizinine gidin
+  ```
+    cd bookstore-projesi 
+  ```
+##Kitaplar
+*Kitap Ekleme
+*Kitap Güncelleme
+*Kitap Silme
 
-3.Uygulamayı başlatın
-```dotnet run
+##Yayınevleri
+*Yayınevi Ekleme
+*Yayınevi Güncelleme
+*Yayınevi Silme
 
+##Yazarlar
+*Yazarlar Ekleme
+*Yazarlar Güncelleme
+*Yazarlar Silme
 
 
 ![book1](https://github.com/xsinemgunesx/BookStoreWebApp/assets/104680332/cd678b0f-54ef-4264-b478-86b015531513)
