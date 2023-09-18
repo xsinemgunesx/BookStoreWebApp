@@ -19,13 +19,13 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
 
    ```shell
    git clone https://github.com/sizin-kullanici-adi/bookstore-projesi.git  
-2.Proje dizinine gidin
+2. Proje dizinine gidin
   ```
     cd bookstore-projesi 
    ```
-2.Proje dizinine gidin
+2.Proje çalıştırın
   ```
-    cd bookstore-projesi 
+    dotnet run 
   ```
 ### Kitaplar
 * Kitap Ekleme
