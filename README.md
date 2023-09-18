@@ -1,8 +1,8 @@
-# BookStore
+# BookStore :closed_book:
 
 Bu proje, ASP.NET 7 kullanılarak geliştirilen bir bookstore uygulamasını içerir. Bu uygulama, kitapların, yayınevlerinin ve yazarların eklenmesine, güncellenmesine, silinmesine ve listelenmesine olanak tanır.
 
-## Başlangıç
+## Başlangıç :point_right:
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -21,7 +21,7 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
    git clone https://github.com/sizin-kullanici-adi/bookstore-projesi.git
 2.Proje dizinine gidin
 
- ``cd bookstore-projesi
+   ```cd bookstore-projesi
 
 
 ![book1](https://github.com/xsinemgunesx/BookStoreWebApp/assets/104680332/cd678b0f-54ef-4264-b478-86b015531513)
