@@ -21,7 +21,12 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
    git clone https://github.com/sizin-kullanici-adi/bookstore-projesi.git
 2.Proje dizinine gidin
 
-   ```cd bookstore-projesi
+   ```
+    cd bookstore-projesi
+
+3.Uygulamayı başlatın
+```dotnet run
+
 
 
 ![book1](https://github.com/xsinemgunesx/BookStoreWebApp/assets/104680332/cd678b0f-54ef-4264-b478-86b015531513)
