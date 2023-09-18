@@ -27,17 +27,17 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
   ```
     cd bookstore-projesi 
   ```
-##Kitaplar
+#Kitaplar
 *Kitap Ekleme
 *Kitap Güncelleme
 *Kitap Silme
 
-##Yayınevleri
+#Yayınevleri
 *Yayınevi Ekleme
 *Yayınevi Güncelleme
 *Yayınevi Silme
 
-##Yazarlar
+#Yazarlar
 *Yazarlar Ekleme
 *Yazarlar Güncelleme
 *Yazarlar Silme
