@@ -27,20 +27,20 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların yüklü olması ge
   ```
     cd bookstore-projesi 
   ```
-#Kitaplar
-*Kitap Ekleme
-*Kitap Güncelleme
-*Kitap Silme
+### Kitaplar
+* Kitap Ekleme
+* Kitap Güncelleme
+* Kitap Silme
 
-#Yayınevleri
-*Yayınevi Ekleme
-*Yayınevi Güncelleme
-*Yayınevi Silme
+### Yayınevleri
+* Yayınevi Ekleme
+* Yayınevi Güncelleme
+* Yayınevi Silme
 
-#Yazarlar
-*Yazarlar Ekleme
-*Yazarlar Güncelleme
-*Yazarlar Silme
+### Yazarlar
+* Yazarlar Ekleme
+* Yazarlar Güncelleme
+* Yazarlar Silme
 
 
 ![book1](https://github.com/xsinemgunesx/BookStoreWebApp/assets/104680332/cd678b0f-54ef-4264-b478-86b015531513)
